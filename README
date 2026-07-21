@@ -1,0 +1,35 @@
+# Fitness Club Management App
+
+A desktop application for managing a fitness club's daily operations. The system tracks customers, trainers, memberships (abonements), and training sessions, and provides role-based access for administrators and regular users.
+
+## Project Description
+
+Clients of the fitness club register for training sessions with trainers, based on a membership plan (abonement) they purchase. The application allows staff to manage all core entities of the club — customers, trainers, trainer specializations, membership types, and training sessions — through a Windows Forms interface backed by a SQL Server database.
+
+Key features:
+- **Role-based access control** — administrators can add, edit, and delete records, while regular users have read-only access.
+- **User authentication** — login and self-registration system with secure credential checks.
+- **Full CRUD management** for customers, trainers, memberships, and training sessions.
+- **Filtering and search** via stored procedures (by membership type, validity, trainer, training date, and customer name).
+- **Data visualization** — a chart showing the distribution of training sessions by type.
+- **Database maintenance tools** — create and restore backups directly from the app (admin only).
+- **Transactional data updates** — critical operations (e.g., user registration) are wrapped in SQL transactions to ensure data integrity.
+- **Installer** — packaged as a Windows installer (.msi) via Visual Studio's Setup Project Wizard.
+
+## Tools & Technologies
+
+- **C# (.NET Framework)** — application logic
+- **Windows Forms (WinForms)** — desktop user interface
+- **Microsoft SQL Server** — relational database
+- **SQL Server Management Studio (SSMS)** — database design, queries, stored procedures, views
+- **ADO.NET (System.Data.SqlClient)** — database connectivity and data access layer
+- **Visual Studio 2022** — IDE and build environment
+- **Visual Studio Installer Projects (Setup Wizard)** — creating the Windows installer package
+
+## Database Design
+
+- ER diagram and relational model designed before implementation
+- Database normalized up to 3NF / BCNF
+- Core tables: `Customer`, `Trainer`, `Specialization`, `Abonement`, `Abonement_type`, `Training`, `Training_type`, `Users`
+- Views for simplified reporting (memberships, customers, trainers, trainings)
+- Stored procedures for filtering and searching data
