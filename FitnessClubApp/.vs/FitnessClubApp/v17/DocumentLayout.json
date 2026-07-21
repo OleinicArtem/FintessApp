@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\FitnessClubApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\chartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:chartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\trainingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:trainingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\manageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:manageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|c:\\users\\user\\desktop\\fitnessclubapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\abonementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:abonementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\trainingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:trainingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:trainerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\manageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:manageapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:chartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\abonementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:abonementform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\trainingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:trainingform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:customerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\abonementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:abonementform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\manageapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:manageapp.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\trainerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:trainerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|C:\\Users\\user\\Desktop\\FitnessClubApp\\registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9051B4F9-2411-41FF-86AE-DD60CE656BD5}|FitnessClubApp.csproj|solutionrelative:registerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:56:47.868Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAIwJUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:57:11.676Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T21:30:50.453Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ManageApp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ManageApp.Designer.cs",
+              "RelativeDocumentMoniker": "ManageApp.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ManageApp.Designer.cs",
+              "RelativeToolTip": "ManageApp.Designer.cs",
+              "ViewState": "AgIAAOMAAAAAAAAAAAAgwPwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:46:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ManageApp.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ManageApp.cs",
+              "RelativeDocumentMoniker": "ManageApp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ManageApp.cs",
+              "RelativeToolTip": "ManageApp.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwKMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:46:48.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageApp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ManageApp.cs",
+              "RelativeDocumentMoniker": "ManageApp.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ManageApp.cs [Design]",
+              "RelativeToolTip": "ManageApp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T23:46:43.33Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ChartForm.Designer.cs",
+              "RelativeDocumentMoniker": "ChartForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ChartForm.Designer.cs",
+              "RelativeToolTip": "ChartForm.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAowIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:01:41.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TrainingForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainingForm.Designer.cs",
+              "RelativeDocumentMoniker": "TrainingForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainingForm.Designer.cs",
+              "RelativeToolTip": "TrainingForm.Designer.cs",
+              "ViewState": "AgIAAGwBAAAAAAAAAAAAwJUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:01:25.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrainingForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainingForm.cs",
+              "RelativeDocumentMoniker": "TrainingForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainingForm.cs",
+              "RelativeToolTip": "TrainingForm.cs",
+              "ViewState": "AgIAANoAAAAAAAAAAAAYwPcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:01:19.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TrainingForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainingForm.cs",
+              "RelativeDocumentMoniker": "TrainingForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainingForm.cs [Design]",
+              "RelativeToolTip": "TrainingForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:01:18.119Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AbonementForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\AbonementForm.Designer.cs",
+              "RelativeDocumentMoniker": "AbonementForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\AbonementForm.Designer.cs",
+              "RelativeToolTip": "AbonementForm.Designer.cs",
+              "ViewState": "AgIAADoBAAAAAAAAAAAIwGUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:01:07.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AbonementForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\AbonementForm.cs",
+              "RelativeDocumentMoniker": "AbonementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\AbonementForm.cs",
+              "RelativeToolTip": "AbonementForm.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAzwAsBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:01:01.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TrainerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainerForm.Designer.cs",
+              "RelativeDocumentMoniker": "TrainerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainerForm.Designer.cs",
+              "RelativeToolTip": "TrainerForm.Designer.cs",
+              "ViewState": "AgIAALMAAAAAAAAAAAAmwNgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:00:47.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\CustomerForm.Designer.cs",
+              "RelativeDocumentMoniker": "CustomerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\CustomerForm.Designer.cs",
+              "RelativeToolTip": "CustomerForm.Designer.cs",
+              "ViewState": "AgIAAFoBAAAAAAAAAAAIwIUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:00:32.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\CustomerForm.cs",
+              "RelativeToolTip": "CustomerForm.cs",
+              "ViewState": "AgIAAP8AAAAAAAAAAAAQwCABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:00:24.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "RegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\RegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\RegisterForm.Designer.cs",
+              "RelativeToolTip": "RegisterForm.Designer.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAmwIAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:45:34.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\RegisterForm.cs",
+              "RelativeToolTip": "RegisterForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:45:32.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "RegisterForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:45:19.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\LoginForm.Designer.cs",
+              "RelativeToolTip": "LoginForm.Designer.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAmwI8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:44:44.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:44:38.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:44:33.524Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CustomerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\CustomerForm.cs",
+              "RelativeDocumentMoniker": "CustomerForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\CustomerForm.cs [Design]",
+              "RelativeToolTip": "CustomerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:36:13.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AbonementForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\AbonementForm.cs",
+              "RelativeDocumentMoniker": "AbonementForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\AbonementForm.cs [Design]",
+              "RelativeToolTip": "AbonementForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T15:36:06.433Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-06-04T06:07:49.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrainerForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainerForm.cs",
+              "RelativeDocumentMoniker": "TrainerForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainerForm.cs",
+              "RelativeToolTip": "TrainerForm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwFQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:36:40.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAmwFUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:23:19.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChartForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ChartForm.cs",
+              "RelativeDocumentMoniker": "ChartForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ChartForm.cs",
+              "RelativeToolTip": "ChartForm.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:34:55.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChartForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ChartForm.cs",
+              "RelativeDocumentMoniker": "ChartForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\ChartForm.cs [Design]",
+              "RelativeToolTip": "ChartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:34:06.353Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrainerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainerForm.cs",
+              "RelativeDocumentMoniker": "TrainerForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\TrainerForm.cs [Design]",
+              "RelativeToolTip": "TrainerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:36:38.285Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\FitnessClubApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\FitnessClubApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T16:56:12.82Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
